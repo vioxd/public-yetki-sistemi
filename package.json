@@ -1,0 +1,19 @@
+{
+  "name": "mearly-mod",
+  "version": "0.0.1",
+  "description": "MearlyModBot",
+  "main": "mearly.js",
+  "scripts": {
+    "start": "node mearly.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "quick.db":   "7.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "author": ""
+}
